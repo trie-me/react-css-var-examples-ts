@@ -1,0 +1,8 @@
+:root {
+    --bg-success-100: rgb(177, 255, 158);
+    --bg-success-500: rgb(110, 255, 76);
+    --bg-success-1000: rgb(46, 246, 0);
+    --bg-fail-100: rgb(255, 158, 158);
+    --bg-fail-500: rgb(255, 76, 76);
+    --bg-fail-1000: rgb(246, 0, 0);
+}
